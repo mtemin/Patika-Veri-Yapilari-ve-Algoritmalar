@@ -1,4 +1,5 @@
-# Patika-Veri-Yapilari-ve-Algoritmalar (Data-Structures-and-Algorithms)
+# Patika.dev Veri Yapıları ve Algoritmalar (Data-Structures-and-Algorithms)
+
 ## 1.Insertion Sort Ödevi
 [22,27,16,2,18,6]
 
