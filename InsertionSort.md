@@ -18,3 +18,7 @@ o(n^2)
 
 2 ve 7 yer değiştirir. > 4 ve 5 yer değiştirir. > 8 ve 5 yer değiştirir. > 6 ve 7 yer değiştirir.
 [2,3,5,8,7,9,4,15,6] > [2,3,4,8,7,9,5,15,6] > [2,3,4,8,7,9,5,15,6] > [2,3,4,5,7,9,8,15,6] > [2,3,4,5,6,9,8,15,7]
+
+
+### [Patika Profilim](https://app.patika.dev/mtemin)
+### [Patika.dev](https://app.patika.dev/)
