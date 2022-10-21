@@ -17,5 +17,5 @@
 ## Big-O gösterimini yazınız.
 o(nlogn)
 
-[Patika Profilim](https://app.patika.dev/mtemin)
-[Patika.dev](https://app.patika.dev/)
+### [Patika Profilim](https://app.patika.dev/mtemin)
+### [Patika.dev](https://app.patika.dev/)
